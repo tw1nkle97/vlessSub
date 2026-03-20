@@ -1,3 +1,5 @@
 vless://6b50c392-0721-11f1-b052-1d2b3e3d0529@nl4.wizard.select:443?type=tcp&security=reality&fp=chrome&pbk=iTqOFk069KgWnLsHL79oDe2uZg6bF_ZRfAjHAY9BiXU&sni=nl4.wizard.select&flow=xtls-rprx-vision&sid=96db38924c6a77c3&spx=%2F#Нидерланды
 vless://615ebcb8-2468-11f1-94b3-525400fab677@de-3.wizard.select:443?type=tcp&security=reality&fp=chrome&pbk=XVQzGGiC4o-RBxdq5NRF9Toyq-nLN7BK4sdCtlo_Wj0&sni=de-3.wizard.select&flow=xtls-rprx-vision&sid=1f2973cce4b2f175&spx=%2F#Германия vless
 vless://53b1787c-2467-11f1-94b3-525400fab677@pl2.wizard.select:443?type=tcp&security=reality&fp=chrome&pbk=eopnO1pmuX0XD3jekvLC_zJheScRuW9c0BvYyuiCyTQ&sni=pl2.wizard.select&flow=xtls-rprx-vision&sid=15d02821f572e2f0&spx=%2F#Польша
+vless://cd5f075c-2467-11f1-94b3-525400fab677@fin1.wizard.select:443?type=tcp&security=reality&fp=chrome&pbk=WiyrTJdLulNvGBe4obRiKxSfnavBLEtJE7y8SD_rZjw&sni=fin1.wizard.select&flow=xtls-rprx-vision&sid=634405296b5815c3&spx=%2F#Финляндия
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMzU3NWNGZmE3NUEwY0EyNjllNmIz@de-2.wizard.cheap:54755/?outline=1#Германия
